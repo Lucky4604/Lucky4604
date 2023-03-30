@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/IWCf-tXtWdcRgiQuWGXwIfQcFNnHbbXwz6Z1jwIOHYs/rs:fit:1200:650:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy8xNDAwL2JlODMy/OTIyMzkxNDkxLjU4/YzI1NTU4ZjBmZTcu/Z2lm.gif)](https://Lucky4604.io)
+
 <h1 align="center">Hi 👋, I'm Lucky Govind Rao</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
@@ -20,9 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@luckygovindrao2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luckygovindrao2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucky govind rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucky govind rao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucky-govind-rao-00240a1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucky-govind-rao-00240a1b6/" height="30" width="40" /></a>
 <a href="https://instagram.com/lucky4604_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucky4604_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/luckygovindrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luckygovindrao" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/luckygovindrao182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/luckygovindrao182/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/luckygovindrao182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/luckygovindrao182/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
